@@ -12,7 +12,7 @@
   "repository": "https://github.com/wackfx/thirdflare-storage",
   "main": "dist/index.umd.js",
   "module": "dist/index.mjs",
-  "types": "dist/types/*.ts",
+  "types": "dist/types/index.d.ts",
   "exports": {
     ".": [
       {
